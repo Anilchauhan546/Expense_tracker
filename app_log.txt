@@ -1,0 +1,9 @@
+[2025-11-05 12:58:58] Function 'add_expense' executed in 25.9412s
+[2025-11-05 12:59:26] Function 'add_expense' executed in 3.1156s
+[2025-11-05 12:59:36] Function 'add_expense' executed in 34.9347s
+[2025-11-05 13:00:18] Function 'view_expenses' executed in 0.0256s
+[2025-11-05 13:00:26] Function 'generate_monthly_summary' executed in 4.9840s
+[2025-11-05 13:02:39] Function 'add_expense' executed in 63.2032s
+[2025-11-05 13:03:45] Function 'add_expense' executed in 25.8948s
+[2025-11-05 13:04:13] Function 'view_expenses' executed in 0.0207s
+[2025-11-05 13:04:20] Function 'generate_monthly_summary' executed in 7.6006s

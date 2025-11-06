@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-11-05",
+    "category": "Food",
+    "amount": 300.0,
+    "description": "Chucken Biriyani"
+  },
+  {
+    "date": "2025-02-16",
+    "category": "Travel",
+    "amount": 3000.0,
+    "description": "North_India_Travel"
+  },
+  {
+    "date": "2025-11-04",
+    "category": "Food",
+    "amount": 300.0,
+    "description": "Chicken Biriyani"
+  },
+  {
+    "date": "2025-11-04",
+    "category": "Travel",
+    "amount": 1000.0,
+    "description": "Nexus mall"
+  }
+]

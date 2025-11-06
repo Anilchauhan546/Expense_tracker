@@ -1,0 +1,11 @@
+{
+  "month": 11,
+  "month_name": "November",
+  "year": 2025,
+  "categories": {
+    "Food": 600.0,
+    "Travel": 1000.0
+  },
+  "total": 1600.0,
+  "generated_at": "2025-11-05T13:04:27.672875"
+}
